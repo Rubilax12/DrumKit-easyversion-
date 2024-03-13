@@ -1,0 +1,32 @@
+*{
+    margin: 15px;
+    padding: 15px;
+    background-color: #ccc;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#square1 {
+    height: 300px;
+    width: 300px;
+    background-color: #0a32aa;
+    cursor: pointer;
+  }
+#square2 {
+    height: 300px;
+    width: 300px;
+    background-color: #ffffff;
+    cursor: pointer;
+  } 
+#square3 {
+    height: 300px;
+    width: 300px;
+    background-color: #f10a0a;
+    cursor: pointer;
+  }
+
+  
