@@ -1,32 +1,31 @@
 *{
-    margin: 15px;
-    padding: 15px;
-    background-color: #ccc;
+  margin: 15px;
+  padding: 15px;
+  background-color: #ccc;
 }
 
 .container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #square1 {
-    height: 300px;
-    width: 300px;
-    background-color: #green;//Color of your choice (here green)
-    cursor: pointer;
-  }
+  height: 300px;
+  width: 300px;
+  background-color: #09a921;/*Color of your choice (here green)*/
+  cursor: pointer;
+}
 #square2 {
-    height: 300px;
-    width: 300px;
-    background-color: #ffffff;//Color of your choice (here white)
-    cursor: pointer;
-  } 
+  height: 300px;
+  width: 300px;
+  background-color: #ffffff;/*Color of your choice (here white)*/
+  cursor: pointer;
+} 
 #square3 {
-    height: 300px;
-    width: 300px;
-    background-color: #f10a0a;//Color of your choice (here red)
-    cursor: pointer;
-  }
+  height: 300px;
+  width: 300px;
+  background-color: #f10a0a;/*Color of your choice (here red)*/
+  cursor: pointer;
+}
 
-  
