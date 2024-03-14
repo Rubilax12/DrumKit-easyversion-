@@ -13,19 +13,19 @@
 #square1 {
     height: 300px;
     width: 300px;
-    background-color: #0a32aa;
+    background-color: #green;//Color of your choice (here green)
     cursor: pointer;
   }
 #square2 {
     height: 300px;
     width: 300px;
-    background-color: #ffffff;
+    background-color: #ffffff;//Color of your choice (here white)
     cursor: pointer;
   } 
 #square3 {
     height: 300px;
     width: 300px;
-    background-color: #f10a0a;
+    background-color: #f10a0a;//Color of your choice (here red)
     cursor: pointer;
   }
 
